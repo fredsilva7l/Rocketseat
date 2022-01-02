@@ -1,0 +1,1 @@
+Neste arquivo haverá os meus estudos na plataforma Rocketseat.
