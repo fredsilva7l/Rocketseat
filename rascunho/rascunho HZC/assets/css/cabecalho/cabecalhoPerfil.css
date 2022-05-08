@@ -2,7 +2,7 @@
     display: none;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1000px) {
     .cabecalho__perfil {
         display: grid;
         grid-template-columns: repeat(3, auto);
@@ -19,7 +19,7 @@
         display: block;
         width: 32px;
         height: 32px;
-        background-image: url(../img/profile_2.png);
+        background-image: url(../../img/profile_2.png);
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
